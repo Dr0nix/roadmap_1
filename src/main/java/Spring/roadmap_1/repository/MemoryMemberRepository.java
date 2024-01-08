@@ -1,6 +1,7 @@
 package Spring.roadmap_1.repository;
 
 import Spring.roadmap_1.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
